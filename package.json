@@ -1,0 +1,25 @@
+{
+  "name": "frame-sync-server",
+  "version": "0.0.1",
+  "description": "frame-sync-server",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joy-Zhang/frame-sync.git"
+  },
+  "author": "Joy-Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Joy-Zhang/frame-sync/issues"
+  },
+  "homepage": "https://github.com/Joy-Zhang/frame-sync#readme",
+  "dependencies": {
+    "eventemitter3": "^4.0.7",
+    "express": "^4.17.1",
+    "express-ws": "^5.0.2"
+  }
+}
